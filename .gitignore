@@ -2,5 +2,6 @@
 .local*
 .profile*
 .python*
+.ssh*
 .vi*
 
